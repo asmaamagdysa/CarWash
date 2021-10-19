@@ -2,7 +2,7 @@ window.onload = function() {loadFunction()};
 window.onscroll = function() {scrollFunction()};
 
 function loadFunction(){
-  console.log("tooot boot")
+  
   document.getElementById("navbarId").style.padding = "23px 0px" ;
     
 }
